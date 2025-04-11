@@ -11,7 +11,6 @@ I'm a **Junior Data Engineer** with two years of experience in SQL, Python, and 
 
 ## 📫 Connect with Me
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/asad-patel-51721b246/)
-- GitHub: [Your GitHub Profile](GitHub Link)
 - Email: [Your Email](asadmpatel9890@gmail.com)
 
 🚀 Open to new opportunities in Data Engineering. Let's connect!
