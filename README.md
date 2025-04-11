@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Asad  👋
 
 ## 🚀 About Me
 I'm a **Junior Data Engineer** with two years of experience in SQL, Python, and Snowflake Data Warehouse. Passionate about building scalable data solutions and optimizing database performance.
