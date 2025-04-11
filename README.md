@@ -8,16 +8,11 @@ I'm a **Junior Data Engineer** with two years of experience in SQL, Python, and 
 - Work with Snowflake, SQL, and Python to optimize data workflows 📊
 - Continuously improve my skills and contribute to open-source projects 🌍
 
-## 📂 Featured Projects
-Here are some projects that showcase my work:
-
-- **[Project Name](GitHub Project Link)** - Brief description of what it does.
-- **[Project Name](GitHub Project Link)** - Brief description of what it does.
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](LinkedIn Link)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/asad-patel-51721b246/)
 - GitHub: [Your GitHub Profile](GitHub Link)
-- Email: [Your Email](mailto:your.email@example.com)
+- Email: [Your Email](asadmpatel9890@gmail.com)
 
 🚀 Open to new opportunities in Data Engineering. Let's connect!
 
